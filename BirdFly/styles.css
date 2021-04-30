@@ -328,9 +328,9 @@ form .name-details .field:last-child{
 }
 
 /*Media Queries*/
-@media (max-width: 300px){
+@media (max-width: 320px){
 	.wrapper{
-		width: 350px;
+		width: 300px;
 	}
 }
 @media (max-height: 700px){
